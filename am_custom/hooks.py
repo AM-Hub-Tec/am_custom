@@ -1,6 +1,0 @@
-app_name = "am_custom"
-app_title = "Access & Move Custom"
-app_publisher = "Access and Move Ltd"
-app_description = "Custom ERPNext integrations for Access & Move (M-Pesa, PayGo, Respond.io)"
-app_email = "admin@accessandmove.com"
-app_license = "MIT"
