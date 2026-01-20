@@ -1,0 +1,6 @@
+app_name = "am_custom"
+app_title = "Access & Move Custom"
+app_publisher = "Access and Move Ltd"
+app_description = "Custom ERPNext integrations"
+app_email = "admin@accessandmove.com"
+app_license = "MIT"
