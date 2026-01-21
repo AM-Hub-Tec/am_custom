@@ -5,3 +5,5 @@ description = "Access & Move ERPNext customizations"
 requires-python = ">=3.10"
 
 [tool.frappe]
+is_frappe_app = true
+has_frontend = false
